@@ -8,7 +8,7 @@ Desarrollador de Aplicaciones Multiplataforma (Junior)
 - 👯 Me gustaría colaborar en proyectos open source o personales relacionados con Java, JavaScript, herramientas para desarrolladores y aplicaciones que usen IA de forma práctica.
 - 💬 Pregúntame sobre Java, Spring Boot, React y desarrollo de aplicaciones multiplataforma.
 - 📫 Cómo contactarme: **jaironmandvd@gmail.com**
-- ⚡ Fun fact: Me encanta crear retos personalizados de Pokémon y construir herramientas para gestionarlos mejor.
+- ⚡ Fun fact: Me encanta crear retos personalizados y construir herramientas para gestionarlos mejor.
 
 ## 👨‍💻 Sobre mí
 
