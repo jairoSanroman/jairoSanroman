@@ -17,7 +17,7 @@ Me interesa crear soluciones útiles, seguir mejorando en Java y JavaScript y pa
 
 ## 📄 CV y contacto
 
-- 📄 CV: [Ver mi CV]([https://drive.google.com/file/d/1hEFH998rQQgO2Y3w5hc26l5K0lcs0SKW/view?usp=sharing](https://drive.google.com/file/d/1LWeFPTe3iPTH1u6YfBYSmzftdrP5WnpQ/view?usp=drive_link))
+- 📄 CV: [Ver mi CV](https://drive.google.com/file/d/1LWeFPTe3iPTH1u6YfBYSmzftdrP5WnpQ/view?usp=sharing)
 - ✉️ Email: **jaironmandvd@gmail.com**
 - 🌍 Ubicación: Vigo, España
 - 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/jairo-sanromán-62a2502a9)
