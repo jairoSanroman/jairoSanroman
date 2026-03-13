@@ -47,6 +47,6 @@ Me interesa crear soluciones útiles, seguir mejorando en Java y JavaScript y pa
 
 ## 🚀 Proyectos destacados
 
-- **Sistema de Gestión de Incidencias** – Backend en Java 17 + Spring Boot para gestionar tickets internos (incidencias, usuarios y estados) con API REST, PostgreSQL, Swagger y despliegue preparado con Docker y Spring Security + JWT.
+- **DevLinks** – Backend en Java 17 + Spring Boot para gestionar tickets internos (incidencias, usuarios y estados) con API REST, PostgreSQL, Swagger y despliegue preparado con Docker y Spring Security + JWT.
 - **AI Job Hunt Assistant** – App web con React y Node.js que usa la API de OpenAI para analizar ofertas, adaptar el CV y generar mensajes personalizados para reclutadores, con historial local de ofertas.
 - **Pokémon Run Tracker (Lovable)** – Aplicación low-code para gestionar runs de Pokémon, con rutas, equipos, estados de los Pokémon y reglas personalizadas, centrada en la experiencia de usuario.
