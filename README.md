@@ -48,5 +48,5 @@ Me interesa crear soluciones útiles, seguir mejorando en Java y JavaScript y pa
 ## 🚀 Proyectos destacados
 
 - **DevLinks** – Backend en Java 17 + Spring Boot para gestionar tickets internos (incidencias, usuarios y estados) con API REST, PostgreSQL, Swagger y despliegue preparado con Docker y Spring Security + JWT.
-- **incident-management-system** – App web con React y Node.js que usa la API de OpenAI para analizar ofertas, adaptar el CV y generar mensajes personalizados para reclutadores, con historial local de ofertas.
+- **incident-management-system** – Aplicación backend en Java y Spring Boot para gestionar incidencias de forma similar a un mini‑Jira, con arquitectura por capas, seguridad, roles de usuario y buenas prácticas más allá de un CRUD sencillo.
 - **Pokémon Run Tracker (Lovable)** – Aplicación low-code para gestionar runs de Pokémon, con rutas, equipos, estados de los Pokémon y reglas personalizadas, centrada en la experiencia de usuario.
